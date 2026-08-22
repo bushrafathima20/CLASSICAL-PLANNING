@@ -1,9 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+# NAME : BUSHRA FATHIMA I
+# REG.NO : 212225040051
 # Algorithm or Steps Involved:
-
-## Name : BUSHRA FATHIMA I
-
-## Register Number : 212225040051
 <ol>
   <li>Define the initial state</li>
   <li>Define the goal state</li>
@@ -48,9 +46,14 @@ print(plan)
 ['move_A_to_B', 'move_B_to_C']
 ```
 
-## Program :
+# Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
+<h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
 
-```def is_goal_state(current_state, goal_state):
+
+## PROGRAM :
+
+```
+def is_goal_state(current_state, goal_state):
     return current_state == goal_state
 
 def apply_action(current_state, action_effect):
@@ -117,12 +120,10 @@ plan = find_plan(initial_state, goal_state, actions)
 print(plan)
 ```
 
-## Output :
+## OUTPUT :
 
+<img width="369" height="52" alt="Screenshot 2026-08-18 184524" src="https://github.com/user-attachments/assets/894aa2b7-573e-4434-aa92-46fa358af979" />
 
-<img width="1889" height="125" alt="image" src="https://github.com/user-attachments/assets/bdf77e81-de6c-43c1-ba0e-717999dfb523" />
+## RESULT :
 
-
-
-# Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
-<h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
+Therefore,Implementation of Classical Planning Algorithm is implemetated successfully.
