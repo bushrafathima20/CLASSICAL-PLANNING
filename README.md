@@ -122,7 +122,7 @@ print(plan)
 
 ## OUTPUT :
 
-<img width="369" height="52" alt="Screenshot 2026-08-18 184524" src="https://github.com/user-attachments/assets/894aa2b7-573e-4434-aa92-46fa358af979" />
+<img width="299" height="72" alt="image" src="https://github.com/user-attachments/assets/f0aa223e-f5f6-4b6d-ac02-4b1b05d2e4df" />
 
 ## RESULT :
 
